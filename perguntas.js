@@ -1,5 +1,5 @@
 criaCartao(
-    'Astronomia',
+    'Rosas',
     'Qual o maior planeta do sistema solar?',
     'Júpiter'
 )
