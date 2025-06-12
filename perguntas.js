@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Tubarão-baleia',
-    'O tubarão-baleia é um personagem do filme " Procurando Dory?",
+    'O tubarão-baleia é um personagem do filme Procurando Dory',
     'Sim a personagem Destiny'
 )
 
